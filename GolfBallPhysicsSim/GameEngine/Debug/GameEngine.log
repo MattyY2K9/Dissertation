@@ -1,1 +1,9 @@
-﻿  GameEngine.vcxproj -> D:\Users\Matthew\Documents\Masters Degree\Dissertation\GolfBallPhysicsSim\Debug\GameEngine.lib
+﻿  Scene.cpp
+  RenderSystem.cpp
+  RenderComponent.cpp
+  Mesh.cpp
+  Generating Code...
+  Compiling...
+  GameManager.cpp
+  Generating Code...
+  GameEngine.vcxproj -> D:\Users\Matthew\Documents\Masters Degree\Dissertation\GolfBallPhysicsSim\Debug\GameEngine.lib
