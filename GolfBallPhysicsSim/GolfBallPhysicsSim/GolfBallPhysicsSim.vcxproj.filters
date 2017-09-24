@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="GolfBallSimulation.cpp" />
+    <ClCompile Include="GolfMainScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GolfBallSimulation.h" />
+    <ClInclude Include="GolfMainScene.h" />
+  </ItemGroup>
+</Project>
